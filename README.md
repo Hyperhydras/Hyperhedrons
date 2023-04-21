@@ -1,6 +1,6 @@
 # Hyperhedrons
 
-This is a mobile app that visualizes higher dimensional shapes (hyperhedrons) using 3 dimensions and a color gradient for the fourth.
+This is a web app that visualizes higher dimensional shapes (hyperhedrons) using 3 dimensions and a color gradient for the fourth.
 
  - Planning still in progress, refer to issues for current work.
  - Currently in progress:
